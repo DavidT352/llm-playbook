@@ -135,3 +135,4 @@ I’m actively adding more examples, including advanced techniques like:
 
 Feel free to connect or reach out:  
 [davidlamed@protonmail.com]
+[www.linkedin.com/in/david-t-334258296]
