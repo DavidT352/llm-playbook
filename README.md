@@ -20,7 +20,7 @@ This playbook contains a variety of prompt examples that demonstrate my ability 
 * Apply **chain-of-thought reasoning** for complex decision-making support
 * Extract **key information** from customer communications for automation
 * Generate **creative storytelling** content with style and thematic constraints
-* Summarize **customer reviews and sales trends** into structured business briefs
+* Design **business-friendly product comparisons** for e-commerce analytics
 
 ---
 
@@ -116,50 +116,46 @@ This playbook contains a variety of prompt examples that demonstrate my ability 
 
 ---
 
-### 7. Business Summary from Product Reviews
+### 7. Product Comparison Summary for E-commerce Team
 
 **Prompt:**
 
-> Analyze customer review data for multiple products and generate a concise, well-structured, and balanced summary.
-> For each product, highlight the following in bullet points:
+> Compare multiple mobile phone models based on the following criteria:
 >
-> * **Average Rating** (out of 5)
-> * **Top Positive Feedback**
-> * **Most Common Complaint**
-> * **Notable Trend**
+> * Price
+> * Key Features
+> * Battery Life
+> * Customer Ratings (out of 5)
+> * Pros and Cons
+> * Popularity (based on number of reviews or sales rank)
 >
-> Present the summary in a format that is easy to scan, clear, and suitable for business reports or product briefings.
+> The output should:
+>
+> * Be clear, structured, and reusable for future product comparisons.
+> * Use bullet points to ensure a clean, scannable layout.
+> * Maintain a professional and concise tone suitable for business decision-makers.
 
-**Input:**
+**Result Example:**
 
-* **Products:** Alpha | Beta | Gamma
-* **Avg rating (out of 5):** 4.5 | 3.8 | 4.2
-* **Positive Feedback:** Easy to use, reliable | Good value, lightweight | Stylish design, fast performance
-* **Common Complaint:** Battery life could be longer | Screen resolution is low | Occasionally overheats
-* **Notable Trend:** Increasing popularity | Mixed reviews on durability | Strong sales in urban areas
+#### 📱 iPhone 14 Pro
 
-**Result:**
+* **Price:** \$999
+* **Key Features:** A16 Bionic chip, 120Hz OLED display, Dynamic Island
+* **Battery Life:** Up to 23 hours
+* **Customer Rating:** 4.8/5
+* **Pros:** Fast performance, excellent camera
+* **Cons:** Expensive, limited USB-C support
+* **Popularity:** 8,500+ reviews, #3 in Smartphones
 
-**🔹 Alpha**
+#### 📱 Samsung Galaxy S23
 
-* ⭐ **Avg Rating:** 4.5
-* ✅ **Positive:** Easy to use, reliable
-* ⚠️ **Complaint:** Battery life could be longer
-* 📈 **Trend:** Increasing popularity
-
-**🔹 Beta**
-
-* ⭐ **Avg Rating:** 3.8
-* ✅ **Positive:** Good value, lightweight
-* ⚠️ **Complaint:** Screen resolution is low
-* 📊 **Trend:** Mixed reviews on durability
-
-**🔹 Gamma**
-
-* ⭐ **Avg Rating:** 4.2
-* ✅ **Positive:** Stylish design, fast performance
-* ⚠️ **Complaint:** Occasionally overheats
-* 🌍 **Trend:** Strong sales in urban areas
+* **Price:** \$849
+* **Key Features:** Snapdragon 8 Gen 2, AMOLED display, One UI 5.1
+* **Battery Life:** Up to 22 hours
+* **Customer Rating:** 4.6/5
+* **Pros:** Great screen, versatile camera
+* **Cons:** Pre-installed apps, slower updates
+* **Popularity:** 6,200+ reviews, #5 in Smartphones
 
 ---
 
@@ -178,6 +174,7 @@ I’m actively adding more examples, including advanced techniques like:
 * Workflow automation with AI APIs
 
 ---
+
 
 ## Contact
 
