@@ -52,7 +52,7 @@ Summarize this for a busy executive in one or two bullet points:
 
 **Prompt:**  
 Explain this policy clearly and formally to a new employee:  
-"As an employee you're entitled to 15 vacation per year. The request is to be made two weeks in advance to our manager and has to be approved by the manager."
+"As an employee you're entitled to 15 days of vacation per year. The request is to be made two weeks in advance to our manager and has to be approved by the manager."
 
 **Result:**  
 As a full-time employee, you are entitled to 15 days of paid vacation per calendar year. Vacation requests must be submitted at least two weeks in advance and are subject to your manager's approval.
