@@ -278,6 +278,16 @@ Make the output clear, concise, well-structured, and reusable.
 - Main Complaint: Short battery life  
 - Overall Sentiment: Positive
 
+### 11. Educational Prompt: Explaining Health to a Child
+
+**Prompt:**
+How would you explain to a 6-year-old child what health is and how to keep good health? Make it suitable and with analogies the child can understand. Condense everything into 4 simple bullet points.
+
+**Result:**
+- Health is like keeping your body’s engine clean and strong, like a superhero’s!
+- Eat fruits and veggies — they’re the fuel that helps you run, jump, and grow.
+- Sleep is like charging your battery every night so you have energy for the next day.
+- Washing your hands and moving your body (playing!) keeps the “bad guy germs” away and your muscles happy.
 
 ---
 
