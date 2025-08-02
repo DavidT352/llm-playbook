@@ -278,7 +278,7 @@ Make the output clear, concise, well-structured, and reusable.
 - Main Complaint: Short battery life  
 - Overall Sentiment: Positive
 
-### 11. Educational Prompt: Explaining Health to a Child
+### 13. Educational Prompt: Explaining Health to a Child
 
 **Prompt:**
 How would you explain to a 6-year-old child what health is and how to keep good health? Make it suitable and with analogies the child can understand. Condense everything into 4 simple bullet points.
