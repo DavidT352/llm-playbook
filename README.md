@@ -289,6 +289,26 @@ How would you explain to a 6-year-old child what health is and how to keep good 
 - Sleep is like charging your battery every night so you have energy for the next day.
 - Washing your hands and moving your body (playing!) keeps the “bad guy germs” away and your muscles happy.
 
+### 14. Defining Abstract Human Concepts
+
+**Prompt:**
+“Define a relationship between two people. What exactly is a ‘relationship’? Use three short bullet points.”
+
+**Follow-Up Prompt:** 
+“Could we agree that a relationship is setting or removing boundaries? For example, you talk and do certain things with your brother, but with your girlfriend you do different things. It’s a set of rules by which two people connect?”
+
+**Output Summary:** 
+
+A relationship is a set of dynamic boundaries.
+
+It evolves depending on the type and depth of connection.
+
+Deeper trust often equals fewer boundaries; tension adds more.
+
+**Why This Matters:** 
+This prompt sequence is a great tool for exploring emotional intelligence, boundaries, and interpersonal dynamics — useful in coaching, teaching, and reflective writing.
+
+
 ---
 
 ## Why This Matters
