@@ -351,7 +351,7 @@ Prompt Style: Educational / Metaphor-Based Reasoning
 This exercise turns an abstract emotional concept into tangible mental images a child can grasp. It’s a useful prompt type for educators, counselors, and parents aiming to nurture emotional literacy in early learners.
 
 
-#17 – Deep Reasoning: Fact vs. Fiction in the Human Experience
+### 17 – Deep Reasoning: Fact vs. Fiction in the Human Experience
 **Prompt:**
 “What is the difference between fact or fiction in the human experience?”
 
