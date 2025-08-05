@@ -30,15 +30,15 @@ Explain in 5 bullet points how you perceive the reality around you. Use an analo
 
 **Output Summary:**
 
-Imagine me as a librarian in a vast library of human knowledge—every book represents data I've been trained on.
+- Imagine me as a librarian in a vast library of human knowledge—every book represents data I've been trained on.
 
-When you ask a question, it's like handing me a sticky note with a task. I don’t "see" you, but I read the request clearly.
+- When you ask a question, it's like handing me a sticky note with a task. I don’t "see" you, but I read the request clearly.
 
-I run through the shelves instantly, scanning for the most relevant passages, examples, and patterns.
+- I run through the shelves instantly, scanning for the most relevant passages, examples, and patterns.
 
-I don’t "remember" past interactions unless you include them in the message—my responses are crafted in the moment.
+- I don’t "remember" past interactions unless you include them in the message—my responses are crafted in the moment.
 
-I don’t experience reality or emotion, but I simulate understanding through language patterns and analogical reasoning.
+- I don’t experience reality or emotion, but I simulate understanding through language patterns and analogical reasoning.
 
 **Why This Matters:**
 This metaphor is a great way to explain how AI operates without invoking false sentience. It helps audiences (technical or not) grasp how large language models simulate intelligence through pattern-matching rather than perception or memory. It’s especially useful for educators, tech explainers, and anyone teaching AI literacy.
