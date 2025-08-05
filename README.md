@@ -371,7 +371,9 @@ This prompt explores the fluid border between reality and imagination. It's idea
 
 
 #### 18 – How AI Perceives Reality (Library Analogy)
+
 Prompt Type: Deep Reasoning / Analogy-Based Thinking
+
 **Prompt:**
 "I want you to explain as best as possible how your perception works. You communicate with me in real time, respond to input, are capable of sorting out information, reasoning, and explanation. Obviously you go through mental processes analogous to the human mind.
 Explain in 5 bullet points how you perceive the reality around you. Use an analogy that I can understand. For example, you are in a vast library where all the information is stored. How do you act from there once you receive a question/task, and how do you experience and sort out that information?"
