@@ -74,6 +74,9 @@ Thank you in advance.
 Best regards,  
 [Your Name]
 
+**Why This Matters:**
+This prompt demonstrates the ability to adapt informal language into a professional tone suitable for business communication. It’s essential for clear, respectful workplace interactions and maintaining positive professional relationships.
+
 ---
 
 ### 4. Executive Summary Rewrite
@@ -85,7 +88,9 @@ Summarize this for a busy executive in one or two bullet points:
 **Result:**  
 - 📈 Mobile user engagement increased 27% vs Q1  
 - 💰 Revenue flat due to ad pricing changes; UI updates expected to boost Q3 conversions
-
+- 
+**Why This Matters:**
+Producing concise, actionable summaries enables executives to quickly grasp key insights without getting bogged down in details. This skill helps improve communication efficiency and supports faster decision-making.
 ---
 
 ### 5. HR Policy Explanation Prompt
@@ -96,6 +101,9 @@ Explain this policy clearly and formally to a new employee:
 
 **Result:**  
 As a full-time employee, you are entitled to 15 days of paid vacation per calendar year. Vacation requests must be submitted at least two weeks in advance and are subject to your manager's approval.
+
+**Why This Matters:**
+Clear, straightforward explanations of policies help ensure employee understanding and compliance, reducing confusion and administrative issues.
 
 ---
 
@@ -112,6 +120,9 @@ Buying Cons: High upfront cost, less flexibility, responsibility for maintenance
 
 Recommendation: If you need flexibility or don’t have savings for a down payment, renting may be better. If you’re financially stable and plan to stay long-term, buying may be the better investment.
 
+**Why This Matters:**
+This prompt illustrates how structured reasoning and balanced pros/cons lists assist users in making informed, personal financial decisions.
+
 ---
 
 ### 7. Customer Support Extraction Prompt
@@ -124,6 +135,9 @@ Extract the following from an email: customer name, product, issue description, 
 - Product: Smart Thermostat X2  
 - Issue Description: Device not connecting to Wi-Fi after firmware update  
 - Urgency: High
+- 
+**Why This Matters:**
+Extracting structured information from unstructured text enables automation in customer support, improving response times and consistency.
 
 ---
 
@@ -134,6 +148,9 @@ Write a short imaginative fairy tale (about 150 words) for children. Main charac
 
 **Result:**  
 In an enchanted forest filled with glowing mushrooms and whispering trees, lived a brave little fox named Fenn. One morning, he heard that his best friend, a squirrel named Poppy, was trapped across the River of Riddles. The current was wild, and no one dared cross it. But Fenn’s courage was stronger than fear. He remembered a tale about a hidden stepping-stone path. With cleverness and heart, he solved the river's riddles and leapt from stone to stone. When he found Poppy, scared but unharmed, she hugged him tightly. “I knew you’d come.” Fenn smiled. “That’s what friends do.” From that day on, Fenn became the forest’s quiet hero — not the biggest or strongest, but the bravest, with a heart full of friendship.
+
+**Why This Matters:**
+This prompt highlights skills in crafting engaging, thematic storytelling with tone control, ideal for children’s content and creative writing applications.
 
 ---
 
