@@ -190,7 +190,10 @@ The output should:
 - Customer Rating: 4.6/5  
 - Pros: Great screen, versatile camera  
 - Cons: Pre-installed apps, slower updates  
-- Popularity: 6,200+ reviews, #5 in Smartphones  
+- Popularity: 6,200+ reviews, #5 in Smartphones
+
+**Why This Matters:**
+Creating clear, structured comparisons helps stakeholders quickly evaluate options, improving product decision-making and marketing strategies.
 
 ---
 
@@ -227,6 +230,9 @@ The output has to be professional and scannable, use bullet points, have balance
   - Stable sales with repeat buyers  
   - Loved for comfort and fit  
   - Limited color options noted
+ 
+  **Why This Matters:**
+  This prompt demonstrates how to communicate market insights clearly and succinctly for busy decision-makers, supporting strategic business planning.
 
 ---
 
@@ -271,7 +277,10 @@ Make it clear, structured, scannable with bullet points, professional, concise, 
 - Customer Ratings: 4.1  
 - Pros: Feature-rich, great for fitness  
 - Cons: Shorter battery life, bulky  
-- Popularity: 3,900 reviews  
+- Popularity: 3,900 reviews
+-   
+**Why This Matters:**
+Designing reusable templates supports scalable marketing analysis and consistent reporting across product lines.
 
 ---
 
@@ -295,7 +304,9 @@ Make the output clear, concise, bullet-pointed, professional, and reusable for a
 - Product Name: UltraSound 3000  
 - Issue Description: Device shuts off randomly  
 - Urgency Level: High
-
+- 
+**Why This Matters:**
+Structured extraction enables faster triage and resolution of support tickets, improving customer satisfaction and team efficiency.
 ---
 
 ### 13. Customer Review Data Extraction
@@ -321,6 +332,9 @@ Make the output clear, concise, well-structured, and reusable.
 - Main Complaint: Short battery life  
 - Overall Sentiment: Positive
 
+**Why This Matters:** 
+Extracting sentiment and key points from reviews supports product improvement and customer insight analysis.
+
 ### 14. Educational Prompt: Explaining Health to a Child
 
 **Prompt:**
@@ -331,6 +345,9 @@ How would you explain to a 6-year-old child what health is and how to keep good 
 - Eat fruits and veggies — they’re the fuel that helps you run, jump, and grow.
 - Sleep is like charging your battery every night so you have energy for the next day.
 - Washing your hands and moving your body (playing!) keeps the “bad guy germs” away and your muscles happy.
+
+**Why This Matters:** 
+Simplifying complex health concepts into child-friendly language fosters early understanding of healthy habits.
 
 ### 15. Defining Abstract Human Concepts
 
@@ -350,7 +367,7 @@ Deeper trust often equals fewer boundaries; tension adds more.
 
 
 **Why This Matters:** 
-This prompt sequence is a great tool for exploring emotional intelligence, boundaries, and interpersonal dynamics — useful in coaching, teaching, and reflective writing.
+This prompt sequence is a great tool for exploring emotional intelligence, boundaries, and interpersonal dynamics — useful in coaching, teaching, and reflective writing. 
 
 
 
@@ -390,7 +407,7 @@ Prompt Style: Educational / Metaphor-Based Reasoning
 
 - Toy Metaphor: Confidence is like a wind-up robot that keeps walking, no matter what’s in the way — it’s powered from the inside.
 
-**Why This Works:**
+**Why This Matters:**
 This exercise turns an abstract emotional concept into tangible mental images a child can grasp. It’s a useful prompt type for educators, counselors, and parents aiming to nurture emotional literacy in early learners.
 
 
