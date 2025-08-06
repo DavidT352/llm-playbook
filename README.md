@@ -432,6 +432,20 @@ This prompt explores the fluid border between reality and imagination. It's idea
 
 ## 19. A Calm Thought Experiment on Death: Two Paths to Peace
 
+### 🧠 Prompt Type  
+**Philosophical Thought Experiment**  
+*with Chain-of-Thought Reasoning, Socratic Inquiry, and Analogy Generation*
+
+---
+
+### 🛠️ Prompt Techniques Used
+
+- **Chain of Thought (CoT) Reasoning** – Structured step-by-step logical analysis  
+- **Socratic Prompting** – Reflective questioning to deepen reasoning  
+- **Analogy & Metaphor Use** – Transforming abstract ideas into vivid mental images  
+- **Scenario-Based Reasoning** – Exploring two hypothetical outcomes to guide insight  
+- **Reflective Prompt Design** – Simulating human introspection and emotional depth
+
 **Prompt**  
 One of the things people fear most in this world is death. I want to play a thought game with you. Let's consider two scenarios.
 
